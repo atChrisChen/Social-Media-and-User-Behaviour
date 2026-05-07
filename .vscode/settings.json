@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "database": "User_Behaviour_Kaggle",
+            "username": "postgres",
+            "name": "social_media_and_user_behaviour"
+        }
+    ]
+}
